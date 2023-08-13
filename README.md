@@ -1,6 +1,6 @@
-<h1 align="center">Merhaba Cuma</h1>
+<h1 align="center">Merhaba ben Cuma</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Bana ulaşın</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cuma-kaplan-330821269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuma-kaplan-330821269/" height="30" width="40" /></a>
 <a href="https://instagram.com/@cuma.kaplan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cuma.kaplan._" height="30" width="40" /></a>
