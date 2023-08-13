@@ -1,16 +1,13 @@
-### Hi there 👋
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABSCAMAAABZhrs9AAAAclBMVEX/AAD/////n5//iYn/+Pj/7e3/i4v/4OD/wMD/d3f/9fX/29v/oaH/cXH/goL/w8P/lZX/qKj/UVH/Skr/XV3/mZn/0ND/ODj/aWn/Cgr/r6//e3v/Q0P/tLT/kZH/urr/Hh7/Y2P/Jyf/MDD/FRX/V1dxDhpDAAAC0ElEQVRogeXa15KrMAwAUJtgemIILUsSSOP/f/HKQHpbGa94uHrZmZ0hBxC25cL4x7DtIBBuWBSy2VZJZFlRnsd17TjOTAX8res4zi2IKKm2jZRF6AoRBLb9+YfZi/8B5CW1P8/Scsd043TctCt/HScSbuSbK2Q0T8uTNvbuHsrlwgveus3GNHgX++KlKw9/qnayeHYXf66qkI/unoRlrLp3V0Ts5Yl71yJjGRNX1yVk2f7q0r1lFcXZFaRs/8DKjWhdZg9uSux6g/tD7Na9S/o1q9j0rqR2f3qX+rNizO3cObkrO3dJ7iadW5K7a+WKHbnbKpe8GXUNifEQd01mwD0E4CKbL/cMdG8C3ArpmqgSXHBztMvFeqQbgossJPvyKBzX6CW4vo7Lubcb4VbgIrvJa8k/Is0WuMiGcTPX0E9zDS4yU/w2Qs0Z1Rpc5KX8PjytWZUPLnJY4I+hk+Y5uMgbfnJ5gGwRECvObOQs+9mFNGMr0j24yEteueg0Z6ZcZJXWmnO5QKTZpAuF+K+7gqVRF0rx4//kTvOeJ/qupmlHyH5D9VfI8vCViu4nVf+8G+tqjAtqPPrlp//W1RkHx4+/euO+qjeQublPrGadMwO31Xb167ocXORi3bjEDpFMVLd74CJf1pDYcfOUAtwY7xqZlyVo18w81EO6BubdJzHNOsPRnmZdJe3WkYxvj32NTLk2/brZrFuvo1727jaRGPWuhgo56TrwVOve5A2p5NPsaywG10QXhInt4CJHhtEhBjegZVM+uNiSY2R4F5d0Y7J73GHfmbLrCG9cwr5y2OA/14dUbcni9y62rNSMLX90ufz78b91+bPLeYWcGiIje31ORoXbOO3G/HmZwyaL5ftzQUMEwi2ayPHn2bIccQ+nY5rN/Vqdgwqekc/rUdw+H/ySXrOtInW+K49rdeprcYmZ4wxnv6Kkarzu5NfXg1//AAKMHzUeSR8gAAAAAElFTkSuQmCC
 
-<!--
-**CumaKpln/CumaKpln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Cuma</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cuma-kaplan-330821269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuma-kaplan-330821269/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
