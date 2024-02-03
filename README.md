@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cuma KAPLAN</h1>
-<h3 align="center">A passionate frontend developer from TÜRKİYE</h3>
 
-- 🔭 I’m currently working on [emporium-web](https://www.emporium-web.online/)
+- 🔭 I am actively developing my own portfolio.
 
 - 🌱 I’m currently learning **Javascript,C#**
 
